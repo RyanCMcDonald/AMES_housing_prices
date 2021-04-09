@@ -1,6 +1,6 @@
 
 ---
-# Project 2 - AMES Housing Price Modeling
+# AMES Housing Price Modeling
 
 #### Ryan McDonald - General Assembly
 ---
