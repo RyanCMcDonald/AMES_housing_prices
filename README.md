@@ -33,7 +33,7 @@ Data utilized for the project analysis was obtained through the Ames, Iowa asses
 
 Dataset contains 82 columns which include 23 nominal, 23 ordinal, 14 discrete, and 20 continuous variables.  Each variable represents a 'feature' of the home.  There are 2930 seperate observations that range in sales data between 2006 and 2010:
 
-<details><summary>Data Dictionary created for datasets utilized in this analysis</summary>
+<details><summary>Data Dictionary created for datasets utilized in this analysis (click to expand)</summary>
 
 
 | Column Name     | Data Type | Description                                       |
@@ -124,8 +124,7 @@ Dataset contains 82 columns which include 23 nominal, 23 ordinal, 14 discrete, a
 </details>
  
  
- -
- -
+
  
 **The following databases were utilized in analysis:**
 
@@ -161,7 +160,6 @@ Dataset contains 82 columns which include 23 nominal, 23 ordinal, 14 discrete, a
 
 ![another pic](./cited_articles/model_6a_stats.JPG)
  
--
 
 3.  Additional supporting analysis is provided in the code notebook for review, as well as additional insights. Indepth and detailed processing and review are featured throughout code notebooking within markdown and code- formatted lines. 
 
