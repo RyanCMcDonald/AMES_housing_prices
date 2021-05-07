@@ -2,7 +2,7 @@
 ---
 # AMES Housing Price Modeling
 
-#### Ryan McDonald - General Assembly
+#### Ryan McDonald
 ---
 ### Problem Statement
 Story County requires Property Tax Equalization to occur every 2 years. Ames, IA is the most populated community in the county. Tax assessment rates have not increased in nearly a dacade.
